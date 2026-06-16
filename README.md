@@ -24,12 +24,12 @@ O projeto recria o efeito **Chidori** do anime Naruto, permitindo que qualquer p
 
 ### Passo a passo para acessar e testar:
 1. Clique no link abaixo para abrir o site:
-(isaadsl.github.io/ChidoriHtml/)
+   isaadsl.github.io/ChidoriHtml/
 
-2. O navegador vai pedir **permissão para acessar a câmera**.  
+3. O navegador vai pedir **permissão para acessar a câmera**.  
    - Clique em **Permitir**.
 
-3. Pronto! O efeito **Chidori** aparece em tempo real na sua mão, junto com som e visual elétrico.
+4. Pronto! O efeito **Chidori** aparece em tempo real na sua mão, junto com som e visual elétrico.
 
 
 ### Observações importantes
