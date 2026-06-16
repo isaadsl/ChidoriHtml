@@ -24,7 +24,7 @@ O projeto recria o efeito **Chidori** do anime Naruto, permitindo que qualquer p
 
 ### Passo a passo para acessar e testar:
 1. Clique no link abaixo para abrir o site:
-   [Projeto Chidori no GitHub Pages](isaadsl.github.io/ChidoriHtml/)
+(isaadsl.github.io/ChidoriHtml/)
 
 2. O navegador vai pedir **permissão para acessar a câmera**.  
    - Clique em **Permitir**.
